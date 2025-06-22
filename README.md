@@ -5,7 +5,7 @@
 | Vectorstore              | Free Tier / License                       | Delete by ID | Filtering | Search by Vector | Search with score | Async | Passes Standard Tests | Multi Tenancy | IDs in add Documents |
 | ------------------------ | ----------------------------------------- | ------------ | --------- | ---------------- | ----------------- | ----- | --------------------- | ------------- | -------------------- |
 | [Chroma](/chroma)        | ✅ Open Source (MIT)                      | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
-| FAISS                    | ✅ Open Source (Facebook AI)              | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
+| [FAISS](/faiss/)         | ✅ Open Source (Facebook AI)              | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | QdrantVectorStore        | ✅ Open Source & Free Cloud Tier          | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | Weaviate                 | ✅ Open Source & Free Cloud Tier          | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ✅            | ❌                   |
 | Milvus                   | ✅ Open Source (LF AI Foundation)         | ✅           | ✅        | ✅               | ✅                | ✅    | ✅                    | ✅            | ✅                   |

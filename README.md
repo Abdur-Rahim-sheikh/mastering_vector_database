@@ -5,7 +5,7 @@
 | Vectorstore              | Delete by ID | Filtering | Search by Vector | Search with score | Async | Passes Standard Tests | Multi Tenancy | IDs in add Documents |
 | ------------------------ | ------------ | --------- | ---------------- | ----------------- | ----- | --------------------- | ------------- | -------------------- |
 | AstraDBVectorStore       | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
-| Chroma                   | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
+| [Chroma](/chroma)        | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | Clickhouse               | ✅           | ✅        | ❌               | ✅                | ❌    | ❌                    | ❌            | ❌                   |
 | CouchbaseVectorStore     | ✅           | ✅        | ❌               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | DatabricksVectorSearch   | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |

@@ -8,7 +8,7 @@
 | [FAISS](/faiss/)              | ✅ Open Source (Facebook AI)              | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | [QdrantVectorStore](/qdrant/) | ✅ Open Source & Free Cloud Tier          | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | Weaviate                      | ✅ Open Source & Free Cloud Tier          | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ✅            | ❌                   |
-| Milvus                        | ✅ Open Source (LF AI Foundation)         | ✅           | ✅        | ✅               | ✅                | ✅    | ✅                    | ✅            | ✅                   |
+| [Milvus](/milvus/)            | ✅ Open Source (LF AI Foundation)         | ✅           | ✅        | ✅               | ✅                | ✅    | ✅                    | ✅            | ✅                   |
 | PGVector                      | ✅ Open Source (PostgreSQL extension)     | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | Redis                         | ✅ Open Source (RediSearch)               | ✅           | ✅        | ✅               | ✅                | ✅    | ❌                    | ❌            | ❌                   |
 | openGauss                     | ✅ Open Source (Huawei)                   | ✅           | ✅        | ✅               | ✅                | ❌    | ✅                    | ❌            | ✅                   |
